@@ -21,5 +21,5 @@
 	// add the script to the DOM so that it loads
 	target.parentNode.insertBefore(s, target);
 
-})(window, document, 'FlickrEmbedr', 'script', 'http://flickr-embedr.v1.production.manhattan.bf1.yahoo.com/assets/embedr-loader.js');
+})(window, document, 'FlickrEmbedr', 'script', 'https://embedr.flickr.com/assets/embedr-loader.js');
 window.FlickrEmbedr.process('all');
